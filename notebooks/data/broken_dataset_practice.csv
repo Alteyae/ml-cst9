@@ -1,0 +1,269 @@
+order_id,item_weight_kg,distance_km,courier_rating,shipping_method,warehouse_region,delivery_days,actual_delivery_date_note,order_date
+ORD1191,4.66,218.0,1.4,standard,South,4.1,delivered late,25/02/2025
+ORD1178,2.96,84.2,3.7,express,,0.5,delivered on time,21/02/2025
+ORD1124,6.16,136.1,4.0,standard,,3.5,delivered on time,06/02/2025
+ORD1047,7.91,243.1,3.3,standard,,3.0,delivered on time,14/01/2025
+ORD1128,7.1,187.2,1.4,economy,North,3.7,delivered late,07/02/2025
+ORD1214,1.11,102.6,1.6,standard,,3.2,delivered on time,04/03/2025
+ORD1006,8.5,495.3,1.4,standard,,5.9,delivered late,02/01/2025
+ORD1083,1.88,380.9,4.1,standard,South,4.1,delivered late,25/01/2025
+ORD1142,3.19kg,274.6,3.0,standard,West,3.1,delivered on time,11/02/2025
+ORD1113,3.88,205.8,2.1,standard,,1.9,delivered on time,02/02/2025
+ORD1244,13.37,420.9,4.1,standard,,6.2,delivered late,13/03/2025
+ORD1249,12.53,88.4,3.4,express,North,1.3,delivered on time,14/03/2025
+ORD1148,7.22,121.0,1.4,standard,,1.5,delivered on time,13/02/2025
+ORD1238,9.44,308.2,4.2,economy,,6.5,delivered late,11/03/2025
+ORD1069,3.35,214.5,4.2,standard,East,3.2,delivered on time,21/01/2025
+ORD1239,1.77,374.8,3.3,economy,West,5.6,delivered late,11/03/2025
+ORD1088,13.24,289.2,3.6,standard,,4.6,delivered late,26/01/2025
+ORD1011,11.7,301.7,1.3,standard,,5.3,delivered late,04/01/2025
+ORD1233,11.25,354.1,2.2,standard,,4.3,delivered late,09/03/2025
+ORD1108,12.8,233.2,1.6,standard,,3.9,delivered late,01/02/2025
+ORD1118,14.8,241.4,1.7,standard,,3.6,delivered late,04/02/2025
+ORD1206,3.07,146.4,3.2,standard,,1.5,delivered on time,02/03/2025
+ORD1091,7.45,31.9,1.1,express,North,1.1,delivered on time,27/01/2025
+ORD1043,7.6,172.5,3.5,express,,1.4,delivered on time,13/01/2025
+ORD1031,14.17,386.7,1.1,standard,East,4.5,delivered late,18/03/2025
+ORD1177,1.83,404.6,1.8,express,,3.9,delivered late,21/02/2025
+ORD1157,13.57,273.4,3.0,standard,,5.2,delivered late,15/02/2025
+ORD1220,13.51,391.7,4.6,standard,East,5.7,delivered late,06/03/2025
+ORD1016,2.37,359.8,3.2,standard,East,3.1,delivered on time,17/03/2025
+ORD1033,3.78,442.8,3.6,standard,,5.8,delivered late,10/01/2025
+ORD1203,13.87kg,419.8,4.7,standard,North,4.3,delivered late,01/03/2025
+ORD1121,4.3,1.2,4.2,express,West,0.5,delivered on time,05/02/2025
+ORD1067,8.14,211.0,1.5,express,North,3.4,delivered on time,18/03/2025
+ORD1216,10.94,399.9,,standard,,5.8,delivered late,05/03/2025
+ORD1223,2.04kg,73710.95365707389,2.2,standard,,6.2,delivered late,07/03/2025
+ORD1063,11.72,107.5,,economy,North,4.9,delivered late,19/01/2025
+ORD1039,8.34,420.5,2.9,standard,,6.1,delivered late,12/01/2025
+ORD1046,1.54,109.7,4.1,economy,South,4.7,delivered late,14/01/2025
+ORD1130,8.98,259.2,2.4,standard,East,2.8,delivered on time,07/02/2025
+ORD1236,1.92,97.2,3.8,express,,0.9,delivered on time,10/03/2025
+ORD1243,13.32,389.0,2.0,standard,,5.2,delivered late,12/03/2025
+ORD1045,0.62,60.1,4.0,standard,,1.8,delivered on time,14/01/2025
+ORD1133,4.96,185.7,2.6,standard,East,4.9,delivered late,08/02/2025
+ORD1129,4.91,434.8,2.6,express,East,3.0,delivered on time,07/02/2025
+ORD1092,0.15,380.0,1.5,economy,North,5.2,delivered late,27/01/2025
+ORD1110,14.25kg,17.3,2.0,standard,South,2.1,delivered on time,02/02/2025
+ORD1242,1.9,168.6,3.9,express,,0.8,delivered on time,12/03/2025
+ORD1013,5.3,32.1,3.4,express,,0.5,delivered on time,04/01/2025
+ORD1042,0.39kg,394.5,2.9,express,South,3.5,delivered on time,13/01/2025
+ORD1014,8.4,95.4,2.6,express,,1.9,delivered on time,05/01/2025
+ORD1071,4.89kg,311.0,4.1,standard,,2.8,delivered on time,21/01/2025
+ORD1100,14.96,221.6,2.9,express,,3.3,delivered on time,30/01/2025
+ORD1163,12.39,87.5,1.1,standard,East,2.2,delivered on time,17/02/2025
+ORD1147,4.17,183.3,2.2,express,South,2.7,delivered on time,12/02/2025
+ORD1240,13.66,368.8,1.9,express,,3.0,delivered on time,12/03/2025
+ORD1068,10.0,71.7,1.6,standard,North,2.2,delivered on time,20/01/2025
+ORD1048,9.52,165.9,2.5,economy,East,3.8,delivered late,15/01/2025
+ORD1144,5.39,129.0,2.4,express,,1.4,delivered on time,12/02/2025
+ORD1200,7.37kg,152.0,3.8,standard,,3.5,delivered on time,28/02/2025
+ORD1055,3.15,51.2,4.7,economy,,3.0,delivered on time,17/01/2025
+ORD1111,13.9,322.1,2.3,standard,West,4.3,delivered late,02/02/2025
+ORD1001,6.71,196.8,4.1,standard,West,3.3,delivered on time,01/01/2025
+ORD1018,13.92,399.9,2.1,standard,,5.5,delivered late,06/01/2025
+ORD1159,8.05,59.0,1.2,standard,,3.4,delivered on time,16/02/2025
+ORD1235,2.13kg,478.1,1.4,standard,,5.6,delivered late,10/03/2025
+ORD1020,1.89kg,269.9,2.9,standard,,3.1,delivered on time,06/01/2025
+ORD1202,13.77,333.2,4.7,standard,,4.0,delivered late,28/02/2025
+ORD1116,12.56,318.5,4.5,standard,,4.9,delivered late,03/02/2025
+ORD1258,10.57kg,247.1,3.2,standard,,4.5,delivered late,17/03/2025
+ORD1224,4.43,110.8,4.0,standard,,1.8,delivered on time,07/03/2025
+ORD1182,11.89,300.3,1.1,standard,East,3.5,delivered on time,23/02/2025
+ORD1123,4.62,152.2,2.8,express,,2.1,delivered on time,05/02/2025
+ORD1243,13.32kg,389.0,2.0,standard,,5.2,delivered late,18/03/2025
+ORD1226,5.46,449.9,4.9,economy,,5.4,delivered late,07/03/2025
+ORD1112,8.38,414.3,1.6,standard,,3.1,delivered on time,02/02/2025
+ORD1175,8.53,449.4,4.5,express,,4.2,delivered late,21/02/2025
+ORD1211,1.44,34.9,3.6,economy,,2.3,delivered on time,03/03/2025
+ORD1034,14.77,310.0,1.7,express,,4.6,delivered late,10/01/2025
+ORD1082,10.33kg,24.3,1.9,standard,North,3.4,delivered on time,24/01/2025
+ORD1237,9.27,293.8,2.6,standard,West,4.1,delivered late,11/03/2025
+ORD1222,2.92,460.0,,standard,,5.0,delivered late,06/03/2025
+ORD1084,10.98,430.3,1.3,standard,,4.4,delivered late,25/01/2025
+ORD1179,12.15,18.6,4.6,standard,,2.1,delivered on time,22/02/2025
+ORD1057,3.92,83.7,3.3,standard,,0.9,delivered on time,17/01/2025
+ORD1081,7.54,101.6,1.6,standard,North,2.8,delivered on time,24/01/2025
+ORD1070,4.05,310.6,3.3,standard,North,5.0,delivered late,21/01/2025
+ORD1026,4.31,462.3,1.9,economy,South,6.0,delivered late,08/01/2025
+ORD1012,7.92,384.0,4.5,standard,West,3.8,delivered late,04/01/2025
+ORD1153,9.85kg,38.2,1.8,standard,,0.8,delivered on time,14/02/2025
+ORD1172,6.83,128.2,3.6,standard,,1.9,delivered on time,20/02/2025
+ORD1146,4.42,234.2,2.7,standard,,1.2,delivered on time,12/02/2025
+ORD1077,6.7,70.8,4.0,economy,,2.3,delivered on time,23/01/2025
+ORD1089,2.76,163.2,,economy,,4.4,delivered late,26/01/2025
+ORD1101,7.76,471.5,3.3,standard,,5.7,delivered late,30/01/2025
+ORD1143,14.74,351.6,3.9,standard,West,5.2,delivered late,11/02/2025
+ORD1062,3.39,486.1,2.4,standard,,5.3,delivered late,19/01/2025
+ORD1248,7.18,83333.78564280493,2.3,standard,,3.7,delivered late,14/03/2025
+ORD1090,2.1,336.2,3.2,standard,,3.9,delivered late,27/01/2025
+ORD1152,9.94,236.1,1.0,standard,,3.7,delivered late,14/02/2025
+ORD1038,1.92kg,260.5,2.2,standard,,3.3,delivered on time,12/01/2025
+ORD1169,2.47,428.9,3.4,standard,,4.3,delivered late,19/02/2025
+ORD1192,5.09,8.6,3.9,express,South,0.5,delivered on time,26/02/2025
+ORD1118,14.8,241.4,1.7,standard,,3.6,delivered late,19/03/2025
+ORD1106,2.65,337.8,4.7,economy,West,4.7,delivered late,31/01/2025
+ORD1246,12.07,340.7,1.6,express,,2.3,delivered on time,13/03/2025
+ORD1016,2.37,359.8,3.2,standard,East,3.1,delivered on time,05/01/2025
+ORD1076,10.1,239.9,4.7,economy,West,3.9,delivered late,23/01/2025
+ORD1028,5.77,65.5,2.4,economy,,2.8,delivered on time,09/01/2025
+ORD1212,4.46,306.0,2.9,economy,,5.6,delivered late,03/03/2025
+ORD1099,12.2,110.3,1.8,standard,,1.6,delivered on time,29/01/2025
+ORD1080,3.96,278.7,1.1,standard,South,5.7,delivered late,24/01/2025
+ORD1019,9.91,185.8,4.3,express,,0.8,delivered on time,06/01/2025
+ORD1002,12.25,223.0,2.1,standard,,4.1,delivered late,01/01/2025
+ORD1061,7.37,209.1,2.3,express,,2.6,delivered on time,18/01/2025
+ORD1213,7.87,10.0,1.9,standard,,1.5,delivered on time,19/03/2025
+ORD1093,7.49,208.8,3.7,express,,1.2,delivered on time,28/01/2025
+ORD1029,6.1,246.0,2.3,standard,,3.2,delivered on time,09/01/2025
+ORD1245,9.71,370.1,4.3,express,,3.9,delivered late,13/03/2025
+ORD1024,0.54,412.0,3.3,express,West,4.7,delivered late,08/01/2025
+ORD1134,6.86kg,282.2,4.7,standard,South,4.2,delivered late,09/02/2025
+ORD1218,10.25,253.8,3.2,express,North,2.4,delivered on time,05/03/2025
+ORD1005,6.66,28.9,2.3,standard,,1.0,delivered on time,02/01/2025
+ORD1103,6.22,223.2,3.8,standard,West,3.1,delivered on time,31/01/2025
+ORD1154,8.64,429.7,3.8,express,,3.8,delivered late,14/02/2025
+ORD1025,8.36,229.9,4.3,economy,,5.0,delivered late,08/01/2025
+ORD1232,13.64,241.5,1.0,express,South,3.5,delivered on time,09/03/2025
+ORD1037,8.86,445.4,3.1,economy,West,5.8,delivered late,11/01/2025
+ORD1064,5.99,323.8,2.0,standard,,4.6,delivered late,19/01/2025
+ORD1227,8.82,493.2,3.2,standard,South,6.6,delivered late,08/03/2025
+ORD1251,4.45,322.1,2.2,standard,North,3.8,delivered late,15/03/2025
+ORD1105,3.08,173.3,1.0,standard,,4.2,delivered late,31/01/2025
+ORD1139,11.67,221.4,4.1,express,,2.3,delivered on time,10/02/2025
+ORD1102,5.11kg,221.0,4.4,standard,,2.5,delivered on time,30/01/2025
+ORD1225,10.42,362.5,4.4,express,South,3.1,delivered on time,07/03/2025
+ORD1140,12.07,81.2,,standard,North,1.5,delivered on time,10/02/2025
+ORD1229,7.24,270.9,1.0,standard,,4.6,delivered late,08/03/2025
+ORD1137,2.95,330.4,4.7,express,,3.0,delivered on time,09/02/2025
+ORD1041,0.12,313.9,1.6,standard,,2.7,delivered on time,12/01/2025
+ORD1010,4.8,153.2,1.2,standard,South,2.6,delivered on time,03/01/2025
+ORD1007,12.57,84.4,1.1,standard,,1.8,delivered on time,03/01/2025
+ORD1074,10.36,357.5,3.8,economy,,5.7,delivered late,22/01/2025
+ORD1155,8.37,465.6,1.7,standard,,6.7,delivered late,15/02/2025
+ORD1162,5.98,73.9,,express,East,1.1,delivered on time,17/02/2025
+ORD1234,7.75,147.0,3.5,standard,,1.1,delivered on time,10/03/2025
+ORD1065,2.4,59.3,1.8,express,West,0.5,delivered on time,19/01/2025
+ORD1035,8.38,200.3,4.4,standard,,1.5,delivered on time,11/01/2025
+ORD1241,9.61,267.8,1.1,economy,,4.3,delivered late,12/03/2025
+ORD1120,3.59,478.4,2.0,economy,East,7.1,delivered late,05/02/2025
+ORD1259,11.02,406.8,4.8,standard,,5.0,delivered late,17/03/2025
+ORD1171,3.51,26.1,2.9,express,,0.7,delivered on time,19/02/2025
+ORD1256,3.86,247.2,3.5,standard,,3.3,delivered on time,16/03/2025
+ORD1196,12.06,3.6,3.6,standard,North,2.2,delivered on time,27/02/2025
+ORD1215,14.05,408.5,3.5,standard,,5.5,delivered late,04/03/2025
+ORD1135,6.87,77.3,4.4,standard,North,2.4,delivered on time,09/02/2025
+ORD1231,12.2,166.8,2.6,standard,North,2.4,delivered on time,09/03/2025
+ORD1119,6.76,242.1,4.4,express,,1.2,delivered on time,04/02/2025
+ORD1104,11.89,97.1,2.1,standard,,2.4,delivered on time,31/01/2025
+ORD1138,12.75,233.2,3.4,express,South,3.3,delivered on time,10/02/2025
+ORD1254,1.43,354.2,4.4,economy,South,3.8,delivered late,16/03/2025
+ORD1141,13.98,191.2,4.1,express,West,3.4,delivered on time,11/02/2025
+ORD1015,7.34,341.0,1.3,express,,2.7,delivered on time,05/01/2025
+ORD1127,9.72,22.8,3.5,standard,North,2.5,delivered on time,07/02/2025
+ORD1086,13.57,89.9,4.5,economy,West,3.8,delivered late,26/01/2025
+ORD1060,2.68,280.7,3.3,standard,,2.8,delivered on time,18/01/2025
+ORD1097,6.84,141.5,2.5,standard,West,1.5,delivered on time,29/01/2025
+ORD1027,8.19,449.0,2.9,standard,,3.8,delivered late,08/01/2025
+ORD1017,6.77kg,328.6,3.3,economy,,5.7,delivered late,05/01/2025
+ORD1150,1.29,420.4,2.1,standard,East,4.0,delivered late,13/02/2025
+ORD1067,8.14,211.0,1.5,express,North,3.4,delivered on time,20/01/2025
+ORD1180,3.24kg,166.6,1.5,standard,West,2.9,delivered on time,22/02/2025
+ORD1184,1.05,473.2,,standard,East,5.7,delivered late,23/02/2025
+ORD1167,11.82,143.4,2.1,standard,,3.0,delivered on time,18/02/2025
+ORD1004,4.58,86.1,1.8,standard,,2.3,delivered on time,02/01/2025
+ORD1255,1.79,456.2,1.4,standard,,5.3,delivered late,16/03/2025
+ORD1205,6.34,186.3,,standard,South,3.7,delivered late,01/03/2025
+ORD1053,9.63,455.4,3.8,standard,East,6.3,delivered late,16/01/2025
+ORD1189,12.29,404.6,,standard,,4.8,delivered late,25/02/2025
+ORD1009,13.73,380.8,2.8,standard,,5.2,delivered late,03/01/2025
+ORD1078,11.35,164.2,1.8,standard,,1.7,delivered on time,23/01/2025
+ORD1221,1.26,69548.13800393937,2.8,standard,East,0.7,delivered on time,06/03/2025
+ORD1040,0.74,103.3,1.5,economy,,1.2,delivered on time,12/01/2025
+ORD1031,14.17,386.7,1.1,standard,East,4.5,delivered late,10/01/2025
+ORD1193,4.9,224.9,3.6,economy,,5.5,delivered late,26/02/2025
+ORD1208,8.36,383.6,3.4,economy,East,6.2,delivered late,02/03/2025
+ORD1188,14.62,63.8,3.3,standard,,2.0,delivered on time,24/02/2025
+ORD1132,5.42,389.1,2.8,economy,,3.7,delivered late,08/02/2025
+ORD1158,3.81,171.9,4.6,standard,,2.9,delivered on time,16/02/2025
+ORD1096,11.45,494.2,5.0,economy,West,7.3,delivered late,29/01/2025
+ORD1054,9.4,65.0,1.9,express,,1.4,delivered on time,16/01/2025
+ORD1125,2.05,166.3,3.4,standard,,2.8,delivered on time,06/02/2025
+ORD1219,13.99,181.6,,express,South,0.8,delivered on time,05/03/2025
+ORD1072,12.67,374.5,2.0,standard,East,3.9,delivered late,22/01/2025
+ORD1165,10.13,400.7,2.2,standard,,3.2,delivered on time,18/02/2025
+ORD1008,3.26,174.6,2.4,standard,,2.9,delivered on time,03/01/2025
+ORD1051,2.81,401.0,2.2,standard,,4.9,delivered late,15/01/2025
+ORD1107,3.19,50152.02254290246,3.5,standard,,0.6,delivered on time,01/02/2025
+ORD1059,12.6,445.3,2.1,standard,East,5.4,delivered late,18/01/2025
+ORD1036,10.35,64.5,1.9,standard,East,0.6,delivered on time,11/01/2025
+ORD1079,7.27,246.9,1.1,standard,,3.9,delivered late,24/01/2025
+ORD1085,7.69,129.0,3.5,standard,,4.1,delivered late,25/01/2025
+ORD1181,10.0,183.8,3.7,express,,2.5,delivered on time,22/02/2025
+ORD1253,11.16,494.5,4.3,standard,South,5.1,delivered late,15/03/2025
+ORD1250,4.74,121.9,2.8,standard,,1.8,delivered on time,14/03/2025
+ORD1199,11.43,309.7,3.7,standard,South,5.3,delivered late,28/02/2025
+ORD1198,5.08,12.9,,standard,,0.5,delivered on time,27/02/2025
+ORD1213,7.87,10.0,1.9,standard,,1.5,delivered on time,04/03/2025
+ORD1247,8.41,347.7,,standard,South,3.9,delivered late,14/03/2025
+ORD1023,7.47,310.1,4.0,standard,North,3.6,delivered late,07/01/2025
+ORD1075,9.47,275.9,4.4,standard,,4.9,delivered late,22/01/2025
+ORD1210,14.35,18.7,3.7,standard,,3.1,delivered on time,03/03/2025
+ORD1190,11.01,376.6,3.1,economy,,6.4,delivered late,25/02/2025
+ORD1195,8.5,276.0,4.8,express,,3.1,delivered on time,26/02/2025
+ORD1022,10.52,238.5,4.4,standard,West,5.2,delivered late,07/01/2025
+ORD1228,9.2,2.7,1.5,standard,,1.8,delivered on time,08/03/2025
+ORD1151,3.46,298.3,3.7,economy,,5.7,delivered late,14/02/2025
+ORD1204,7.62kg,36.2,2.5,standard,,0.8,delivered on time,01/03/2025
+ORD1176,8.47,281.2,2.9,standard,West,2.8,delivered on time,21/02/2025
+ORD1187,2.46,77560.80387098313,3.1,economy,West,3.4,delivered on time,24/02/2025
+ORD1073,4.42,194.9,4.3,standard,,3.3,delivered on time,22/01/2025
+ORD1217,9.9,345.0,3.5,express,,3.3,delivered on time,05/03/2025
+ORD1209,0.6,140.4,,standard,East,2.2,delivered on time,02/03/2025
+ORD1145,15.0,223.3,2.1,standard,,3.1,delivered on time,12/02/2025
+ORD1050,13.73,260.9,3.3,express,South,2.6,delivered on time,15/01/2025
+ORD1185,13.03,396.5,1.9,express,,1.7,delivered on time,23/02/2025
+ORD1095,12.51,423.9,3.3,standard,,4.6,delivered late,28/01/2025
+ORD1098,2.01,123.1,3.2,standard,,1.4,delivered on time,29/01/2025
+ORD1207,9.65,12.4,1.9,standard,East,0.7,delivered on time,02/03/2025
+ORD1115,12.83,484.6,1.0,express,,5.4,delivered late,03/02/2025
+ORD1114,9.63,433.5,1.4,standard,,5.9,delivered late,03/02/2025
+ORD1003,10.34,257.9,4.5,economy,,5.3,delivered late,01/01/2025
+ORD1156,11.06,475.8,,standard,,5.9,delivered late,15/02/2025
+ORD1257,13.07,116.3,3.6,express,,2.7,delivered on time,16/03/2025
+ORD1032,2.67,100.2,1.7,express,South,1.0,delivered on time,10/01/2025
+ORD1161,13.47,59854.53001992213,2.7,standard,,4.6,delivered late,16/02/2025
+ORD1173,6.12,412.1,2.8,standard,,4.4,delivered late,20/02/2025
+ORD1170,1.66,340.9,3.1,economy,,5.1,delivered late,19/02/2025
+ORD1168,11.51,368.5,1.1,express,,2.4,delivered on time,19/02/2025
+ORD1160,6.84kg,379.6,3.6,standard,North,3.7,delivered late,16/02/2025
+ORD1061,7.37,209.1,2.3,express,,2.6,delivered on time,19/03/2025
+ORD1186,12.62,301.3,1.4,standard,,3.6,delivered late,24/02/2025
+ORD1066,10.12,14.9,3.0,standard,West,1.7,delivered on time,20/01/2025
+ORD1049,3.31,350.4,4.9,standard,,4.4,delivered late,15/01/2025
+ORD1136,14.49,171.3,2.9,standard,South,2.9,delivered on time,09/02/2025
+ORD1030,14.07,277.8,3.3,standard,North,4.5,delivered late,09/01/2025
+ORD1117,0.51,154.5,1.2,standard,,1.5,delivered on time,04/02/2025
+ORD1006,8.5,495.3,1.4,standard,,5.9,delivered late,19/03/2025
+ORD1194,3.49,463.5,3.8,economy,,5.4,delivered late,26/02/2025
+ORD1056,3.03kg,413.9,4.5,economy,,5.8,delivered late,17/01/2025
+ORD1230,6.56,469.9,4.8,express,West,4.0,delivered late,09/03/2025
+ORD1166,13.44,482.0,2.4,standard,North,6.0,delivered late,18/02/2025
+ORD1201,4.41,469.7,1.7,standard,,4.5,delivered late,28/02/2025
+ORD1149,8.88,304.7,3.9,economy,West,5.5,delivered late,13/02/2025
+ORD1021,10.55,153.0,1.9,economy,,4.7,delivered late,07/01/2025
+ORD1183,3.23kg,8.4,3.8,standard,West,1.1,delivered on time,23/02/2025
+ORD1000,5.26,242.1,1.8,standard,,1.5,delivered on time,01/01/2025
+ORD1131,5.85,282.4,2.9,standard,East,3.7,delivered late,08/02/2025
+ORD1052,6.55,480.9,3.3,standard,,4.8,delivered late,16/01/2025
+ORD1126,7.05kg,473.1,4.6,economy,North,7.4,delivered late,06/02/2025
+ORD1044,1.43,7.5,3.4,express,East,0.6,delivered on time,13/01/2025
+ORD1164,13.62,494.2,3.1,standard,,4.9,delivered late,17/02/2025
+ORD1094,1.67kg,280.3,,economy,West,5.0,delivered late,28/01/2025
+ORD1109,11.05,307.4,2.5,express,North,1.5,delivered on time,01/02/2025
+ORD1252,13.61,72.2,3.6,economy,,3.4,delivered on time,15/03/2025
+ORD1058,8.54,485.0,3.7,standard,,5.7,delivered late,17/01/2025
+ORD1087,7.91,327.6,1.6,economy,,5.5,delivered late,26/01/2025
+ORD1197,7.22kg,454.7,2.5,express,North,5.1,delivered late,27/02/2025
+ORD1174,2.23,108.8,2.8,standard,,2.3,delivered on time,20/02/2025
+ORD1122,14.07,337.5,4.7,standard,,4.6,delivered late,05/02/2025
