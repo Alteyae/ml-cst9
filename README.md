@@ -14,8 +14,9 @@ Course material for an introductory machine learning subject: a series of hands-
 | 04 | `04_preprocessing_demo.ipynb` | A fully worked, narrated walkthrough cleaning a deliberately broken dataset step by step (missing values, duplicates, outliers, wrong dtypes, leakage, class imbalance), with notes on how each problem shows up differently on other datasets. |
 | 05 | `05_preprocessing_practice.ipynb` | The same exercise as notebook 04, but as a boilerplate with a different broken dataset for students to clean themselves, plus a self-grading check at the end. |
 | 06 | `06_feature_engineering_demo.ipynb` | Encoding (one-hot, ordinal), scaling, date feature extraction, binning, and derived features — a worked demo followed by a practice section with a second dataset. |
+| 07 | `07_linear_regression_lab.ipynb` | Guided lab: is there a relationship between daily min and max temperature, and can you predict one from the other? Simple linear regression on the [Weather in WW2](https://www.kaggle.com/datasets/smid80/weatherww2/data) Kaggle dataset, cross-checked by a standalone script (`crosscheck_regression.py`) that recomputes the fit independently with NumPy. |
 
-Each numbered notebook builds on the last; templates (02, 03) and practice notebooks (05, 06's Part B) are meant to be copied and reused on a dataset of your own choosing.
+Each numbered notebook builds on the last; templates (02, 03) and practice notebooks (05, 06's Part B, 07) are meant to be copied and reused on a dataset of your own choosing.
 
 ## Setup
 
