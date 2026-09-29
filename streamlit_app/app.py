@@ -8,6 +8,8 @@ Trains a classifier on the embedded-system network security dataset (label: 0 = 
 records -- either typed in by hand or uploaded as a CSV.
 """
 
+from pathlib import Path
+
 import numpy as np
 import pandas as pd
 import streamlit as st
@@ -24,7 +26,11 @@ from sklearn.metrics import (
 )
 
 RANDOM_STATE = 42
-DATA_PATH = "network_traffic_data.csv"
+# Resolve relative to this file, not the process's working directory -- Streamlit
+# Cloud runs the app with the repo root as cwd, not this file's folder, so a plain
+# relative path like "network_traffic_data.csv" only works when run locally with
+# `cd streamlit_app && streamlit run app.py`.
+DATA_PATH = Path(__file__).parent / "network_traffic_data.csv"
 TARGET_COLUMN = "label"
 
 st.set_page_config(page_title="Network Anomaly Detector", page_icon="🛰️", layout="wide")
